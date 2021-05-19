@@ -1,0 +1,1 @@
+web: gunicorn IPL_dash:server
